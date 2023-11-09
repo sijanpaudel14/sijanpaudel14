@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sijan Paudel</h1>
 <h3 align="center">A passionate Tech explorer, AI, ML enthusiast.</h3><br><br>
-<p aligh="left"><img align="right" alt="Coding" height ="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"></p>
+<p aligh="left"><img align="right" alt="Coding" height ="280" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"></p>
 
 
 <p align="left"> <a href="https://twitter.com/sijanpaudel1" target="blank"><img src="https://img.shields.io/twitter/follow/sijanpaudel1?logo=twitter&style=for-the-badge" alt="sijanpaudel1" /></a> </p>
