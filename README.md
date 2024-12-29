@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sijan Paudel</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=40&duration=3000&pause=1000&color=88F7B4&center=true&random=false&width=700&height=100&lines=A+passionate+Tech+explorer%2C;AI+and+ML+enthusiast%2C;Web+and+Apps+Designer%2C+;Web+and+Front+End+Developer%2C" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=40&duration=3000&pause=1000&color=88F7B4&center=true&random=false&width=700&height=70&lines=A+passionate+Tech+explorer%2C;AI+and+ML+enthusiast%2C;Web+and+Apps+Designer%2C+;Web+and+Front+End+Developer%2C" alt="Typing SVG" /></a></p>
 <p aligh="right"><img align="right" alt="Coding" height ="280" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"></p>
 
 
