@@ -35,13 +35,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sijanpaudel14&theme=radical&show_icons=true&count_private=true" alt="Sijan Paudel's GitHub Stats" />
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sijanpaudel14" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sijanpaudel14&theme=radical&hide_border=true&border_radius=23.1" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijanpaudel14&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijanpaudel14&theme=dark&border_radius=7&mode=weekly" alt="Top Languages" />
 </p>
 
 <p>
