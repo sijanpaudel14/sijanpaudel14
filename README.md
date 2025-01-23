@@ -35,9 +35,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sijanpaudel14&theme=radical&show_icons=true&count_private=true" alt="Sijan Paudel's GitHub Stats" />
     </td>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=sijanpaudel14&theme=radical&hide_border=true&border_radius=7" alt="Sijan Paudel's GitHub Streak" />
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sijanpaudel14" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
